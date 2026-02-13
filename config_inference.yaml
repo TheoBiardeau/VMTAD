@@ -1,0 +1,7 @@
+general_config:
+  weight_path_VMTAD_onnx: weight/VMTAD_B5.onnx
+  image_size: 456
+  feature_size: 96
+  feature_channel: 128
+
+  data_path: /workspaces/XLIM_Thesis/data/AD_cyclair/Colza/images_sequence
