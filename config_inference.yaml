@@ -1,5 +1,5 @@
 general_config:
-  weight_path_VMTAD_onnx: weight/VMTAD_B5.onnx
+  weight_path_VMTAD_onnx: VMTAD_B5.onnx
   image_size: 456
   feature_size: 96
   feature_channel: 128
