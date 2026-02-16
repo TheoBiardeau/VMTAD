@@ -30,7 +30,7 @@ Data should be organized in the following tree structure with the exact same nam
 ```
 
 ## Weight
-Weight are available in the repo
+Weight is available in the repo.
 
 ## Evaluation
 The evaluation is performed in the notebook eval.ipynb.
